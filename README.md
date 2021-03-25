@@ -1,1 +1,2 @@
-# PROJECT-CRUMBLED-PAPER
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
